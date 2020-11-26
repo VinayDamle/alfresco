@@ -1,2 +1,0 @@
-# alfresco
-alfresco-m10
